@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Abhirup 👋
 
-DevSecOps and QA engineer studying for an M.S. in Information Technology Management at Illinois Tech (4.0 GPA). Before that I spent 4+ years at Wipro testing enterprise airline systems for Qatar Airways, and this summer I worked as a DevSecOps intern on CI/CD pipelines across four environments.
+DevSecOps and QA engineer studying for an M.S. in Information Technology Management at Illinois Tech. Before that I spent 4+ years at Wipro testing enterprise airline systems for Qatar Airways, and this summer I worked as a DevSecOps intern on CI/CD pipelines across four environments.
 
 **Open to opportunities** in DevOps, DevSecOps, QA automation and IT support.
 
