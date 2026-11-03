@@ -19,6 +19,8 @@ DevSecOps and QA engineer studying for an M.S. in Information Technology Managem
 
 **Open to opportunities** in DevOps, DevSecOps, QA automation and IT support.
 
+**Portfolio:** [abhirupkhan.me](https://abhirupkhan.me), with case studies, my resume, and a contact form.
+
 ## Featured projects
 
 | Project | What it shows |
@@ -38,4 +40,4 @@ DevSecOps and QA engineer studying for an M.S. in Information Technology Managem
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/abhirupkhan/) · abhirupofficially@gmail.com
+[Portfolio](https://abhirupkhan.me) · [LinkedIn](https://www.linkedin.com/in/abhirupkhan/) · abhirupofficially@gmail.com
